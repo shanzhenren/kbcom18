@@ -8,8 +8,8 @@ nav: true
 
 All deadlines are 11:59 PM Pacific time.
 
-+ Call for Papers: **Wednesday Sep 13, 2017**
++ Call for Papers: Wednesday Sep 13, 2017
 + Submission Due: **Sunday Nov 12, 2017**
-+ Notification of acceptance: Monday, Dec 11, 2017
++ Notification of acceptance: **Monday, Dec 11, 2017**
 + Camera-ready Due: Jan 27, 2018
-+ Wrokshop: **Feb 9, 2018**  
++ Workshop: **Feb 9, 2018**  
