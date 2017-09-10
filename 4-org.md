@@ -7,9 +7,9 @@ nav: true
 # Organizers
 
 + [Xiang Ren](http://xren7.web.engr.illinois.edu/) (USC)
-+ [Craig Knoblock]() (USC/ISI)
-+ [William Wang]() (UCSB)
-+ [Yu Shu]() (UCSB).
++ [Craig Knoblock](http://usc-isi-i2.github.io/knoblock/) (USC/ISI)
++ [William Wang](https://www.cs.ucsb.edu/~william/) (UCSB)
++ [Yu Shu](http://cs.ucsb.edu/~ysu/) (UCSB).
 
 <br>
 
