@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Prep
+title: Speakers
 nav: true
 ---
 

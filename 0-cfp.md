@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Prep
+title: Call for Papers
 nav: true
 ---
 

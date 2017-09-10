@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Prep
+title: Schedule
 nav: true
 ---
 
