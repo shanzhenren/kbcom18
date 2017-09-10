@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-## First Workshop on Knowledge Base Construction, Reasoning and Mining (KBCOM)
-### at [WSDM 2018](http://www.wsdm-conference.org/2018/) in Los Angeles, California, Feb 9, 2018.  
+# First Workshop on Knowledge Base Construction, Reasoning and Mining (KBCOM)
+## at [WSDM 2018](http://www.wsdm-conference.org/2018/) in Los Angeles, California, Feb 9, 2018.  
 
 <br>
 
@@ -22,13 +22,14 @@ We expect the highlight of the workshop to be the discussions and brainstorming 
 
 <br>
 
-
-# Deadlines
-All deadlines are 11:59 PM Pacific time. See our [call for paper]()
-+ Paper submission: **Sunday November 12, 2017**
-+ Notification of acceptance: Monday, December 11, 2017
-+ Camera ready submission: Jan 27, 2018
-+ Wrokshop: **Feb 9, 2018**  
+# Invited Speakers
++ [Luna Dong](http://lunadong.com/)  (Amazon)
++ [Lise Getoor](https://getoor.soe.ucsc.edu/)  (University of California Santa Cruz)
++ [Alon Halevy](https://homes.cs.washington.edu/~alon/)  (Recruit Institute of Technology)
++ [Monica Lam](https://suif.stanford.edu/~lam/)  (Stanford University)
++ [Christopher Ré](https://cs.stanford.edu/people/chrismre/)  (Stanford University)
++ [Xifeng Yan](http://www.cs.ucsb.edu/~xyan/)  (University of California at Santa Barbara)
++ [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz)  (University of Washington)
 
 <br>
 
