@@ -6,7 +6,7 @@ title: KBCOM 2018
 description: First Workshop on Knowledge Base Construction, Reasoning and Mining
 
 # add google analytics if desired (and uncomment in _includes/head.html)
-google_analytics: 
+google_analytics: UA-34679733-3
 
 # Build settings
 markdown: kramdown
