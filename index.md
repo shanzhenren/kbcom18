@@ -55,6 +55,6 @@ We expect the highlight of the workshop to be the discussions and brainstorming 
 <br>
 
 # Organizers
-The workshop is organized by  [Xiang Ren](http://xren7.web.engr.illinois.edu/) (USC), [Craig Knoblock]() (USC/ISI), [William Wang]() (UCSB), and [Yu Shu]() (UCSB).
+The workshop is organized by [Xiang Ren](http://xren7.web.engr.illinois.edu/) (USC)， [Craig Knoblock](http://usc-isi-i2.github.io/knoblock/) (USC/ISI)， [William Wang](https://www.cs.ucsb.edu/~william/) (UCSB), and [Yu Shu](http://cs.ucsb.edu/~ysu/) (UCSB)..
 
 <br>
