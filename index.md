@@ -5,7 +5,7 @@ layout: default
 First Workshop on Knowledge Base Construction, Reasoning and Mining (KBCOM) 2018
 at WSDM 2018 in Los Angelos, California, Feb 9, 2018.
 
-{% include figure.html file="images/knowledge.jpg" alt="intro image here" width="75%" %}
+{% include figure.html file="knowledge.jpg" alt="intro image here" width="90%" %}
 
 # *Overview*
 The success of data mining and search technologies is largely attributed to the efficient and effective analysis of structured data. The construction of well-structured, machine-actionable knowledge bases from raw data sources is often the premise of consequent applications. Automated construction, mining and reasoning of the knowledge bases have become possible as research advances in many related areas such as information extraction, natural language processing, data mining, search, machine learning, and databases. However, there are still substantial scientific and engineering challenges in advancing and integrating such relevant methodologies. The KBCOME workshop aims to gather together leading experts from industry and academia to share their visions about the field, discuss latest research results, and exchange exciting ideas. 
