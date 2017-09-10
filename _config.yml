@@ -2,23 +2,8 @@
 # based on minima theme https://github.com/jekyll/minima
 
 # Site settings
-title: workshop-template
-description: > 
-  Create a workshop website quick and easy! 
-keywords: "workshops, websites, gh-pages"
-
-# author settings for cc-by
-author: evan will
-github_username: evanwill
-twitter_username: EvanPeterWill
-pub_year: 2017
-
-# add the full url for the github repository
-repo: "https://github.com/evanwill/workshop-template"
-
-# add the full url for the repository's gh-pages
-# hint: it's in the form https://username.github.io/repo-name
-url: "https://evanwill.github.io/workshop-template" 
+title: KBCOM 2018
+description: First Workshop on Knowledge Base Construction, Reasoning and Mining
 
 # add google analytics if desired (and uncomment in _includes/head.html)
 google_analytics: 
