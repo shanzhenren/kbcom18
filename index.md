@@ -15,11 +15,11 @@ The *1st Workshop on Knowledge Base Construction, Reasoning and Mining (KBCOM)* 
 
 We aim to complement the main conference by trying to achieve the following goals:
 
-+ *Research horizons in KBCOM*: The workshop focuses on **invited talks** from leading experts and **position papers**. Its program comprises a good number of [keynote speakers](http://kbcom.org/1-speaker.html) from leaders in both academia and industry, including leading universities (Stanford, University of Washington, UCSB and more) and industrial organizations like Amazon, Allen Institute for Artificial Intelligence and Recruit Institute of Technology.
++ *Research horizons in KBCOM*: The workshop focuses on **invited talks** from leading experts and **position papers** that discuss forward-looking work. Its program comprises a good number of [keynote speakers](http://kbcom.org/1-speaker.html) from leaders in both academia and industry, including leading universities (Stanford, University of Washington and more) and industrial organizations like Amazon and Recruit Institute of Technology.
 
-+ *Idea exchange in KBCOM*: The workshop will organize a poster session for researchers working in KBCOM to share ideas, collect feedbacks and form collaborations. We particularly encourage participants to publish new softwares and datasets on related topics, and will hold novel shared tasks to help develop a better community for KBCOM.
++ *Idea exchange in KBCOM*: We will organize a **poster session** for researchers to share ideas, collect feedbacks and form collaborations. We particularly encourage participants to publish **new softwares and datasets** on related topics, and will hold novel **shared tasks** to help develop a better community.
 
-We expect the highlight of the workshop to be the discussions and brainstorming during invited talks and poster session. The workshop will also accept submissions of both completed and forward-looking work which will be presented either as *highlight talks* or during the poster session. With such unique focuses, KBCOM workshop aims to provide a vivid forum of discussion about knowledge base-related research.
+We expect the highlight of the workshop to be the discussions and brainstorming during invited talks and poster session. The workshop will also accept **regular submissions** of both full and short papers which will be presented either as *highlight talks* or during the poster session. With such focuses, KBCOM aims to provide a vivid forum of discussion about knowledge base-related research.
 
 <br>
 
