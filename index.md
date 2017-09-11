@@ -36,7 +36,7 @@ We expect the highlight of the workshop to be the discussions and brainstorming 
 
 # Topics
 + **Knowledge Base Construction**: 
-  - information extraction: chunking, named entity recognition, relation extraction, entity resolution, synonym mining; 
+  - information extraction: named entity recognition, relation extraction, entity resolution, synonym mining; 
   - ontology construction; information integration; schema alignment, ontology alignment; 
   - tools and systems for automated knowledge base construction; 
   - structured prediction methods on text, sequence labeling methods on text; 
