@@ -13,5 +13,8 @@ nav: true
 + [Xifeng Yan](http://www.cs.ucsb.edu/~xyan/)  (University of California at Santa Barbara)
 + [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz)  (University of Washington)
 
-# Speaker Bio
-(coming soon)
+<br>
+
+# Speaker Bio (coming soon)
+
+<br>
