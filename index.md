@@ -43,21 +43,19 @@ We expect the highlight of the workshop to be the discussions and brainstorming 
   - distant supervision, weak supervision techniques for text; 
   - Human-in-the-loop techniques for KB construction.
 
-<br>
 
 + **Mining and Reasoning over Knowledge Bases**: 
   - structured search, KB querying, semantic search; 
   - representation learning on network/graph, knowledge graph embedding, knowledge base completion/population, link prediction; 
   - knowledge-based systems, probabilistic knowledge bases, graph databases.
 
-<br>
 
 + **Knowledge Base-related Applications**: 
   - KB-based QA, hybrid QA, QA with open-domain facts; 
   - Injecting rule/logic into recommendation systems, recommendation with knowledge bases; 
   - web search using knowledge bases, search by example; User study in KB-related applications, user interface, best practices.
-  
-<br>
+
+
 
 # Organizers
 The workshop is organized by [Xiang Ren](http://xren7.web.engr.illinois.edu/) (USC)， [Craig Knoblock](http://usc-isi-i2.github.io/knoblock/) (USC/ISI)， [William Wang](https://www.cs.ucsb.edu/~william/) (UCSB), and [Yu Shu](http://cs.ucsb.edu/~ysu/) (UCSB).
