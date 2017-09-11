@@ -11,11 +11,11 @@ layout: default
 <br>
 
 # Overview
-The *1st Workshop on Knowledge Base Construction, Reasoning and Mining (KBCOM)* is a new workshop that will be co-located with [WSDM 2018](http://www.wsdm-conference.org/2018/). The success of data mining and search technologies is largely attributed to the efficient and effective analysis of structured data. Automated construction, mining and reasoning of knowledge bases have become possible as research advances in many related areas such as information extraction, natural language processing, machine learning and databases. KBCOM aims to gather together leading experts from industry and academia to share their visions about the field, discuss latest research results, and exchange exciting ideas. 
+The *1st Workshop on Knowledge Base Construction, Reasoning and Mining (KBCOM)* is a new workshop that will be co-located with [WSDM 2018](http://www.wsdm-conference.org/2018/). The success of data mining and search technologies is largely attributed to the efficient and effective analysis of structured data. Automated construction, mining and reasoning of [knowledge bases and graphs](https://en.wikipedia.org/wiki/Knowledge_base) have become possible as research advances in many related areas such as *information extraction*, *natural language processing*, *machine learning* and *databases*. KBCOM aims to gather together leading experts from industry and academia to share their visions about the field, discuss latest research results, and exchange exciting ideas. 
 
 We aim to complement the main conference by trying to achieve the following goals:
 
-+ *Research horizons in KBCOM*: The workshop focuses on **invited talks** from leading experts and **position papers** that discuss forward-looking work. Its program comprises a good number of [keynote speakers](http://kbcom.org/1-speaker.html) from leaders in both academia and industry, including leading universities (Stanford, University of Washington and more) and industrial organizations like Amazon and Recruit Institute of Technology.
++ *Research horizons in KBCOM*: The workshop focuses on **invited talks** from leading experts and **position papers**  discussing forward-looking work. Its program comprises a good number of [keynote speakers](http://kbcom.org/1-speaker.html) from both leading universities (Stanford, University of Washington and more) and industrial organizations like Amazon and Recruit Institute of Technology.
 
 + *Idea exchange in KBCOM*: We will organize a **poster session** for researchers to share ideas, collect feedbacks and form collaborations. We particularly encourage participants to publish **new softwares and datasets** on related topics, and will hold novel **shared tasks** to help develop a better community.
 
