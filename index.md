@@ -43,10 +43,14 @@ We expect the highlight of the workshop to be the discussions and brainstorming 
   - distant supervision, weak supervision techniques for text; 
   - Human-in-the-loop techniques for KB construction.
 
+<br>
+
 + **Mining and Reasoning over Knowledge Bases**: 
   - structured search, KB querying, semantic search; 
   - representation learning on network/graph, knowledge graph embedding, knowledge base completion/population, link prediction; 
   - knowledge-based systems, probabilistic knowledge bases, graph databases.
+
+<br>
 
 + **Knowledge Base-related Applications**: 
   - KB-based QA, hybrid QA, QA with open-domain facts; 
