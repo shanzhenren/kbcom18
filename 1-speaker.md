@@ -6,13 +6,13 @@ nav: true
 
 # Invited Speakers
 + [Xin Luna Dong](http://lunadong.com/)  (Amazon)
++ [Oren Etzioni](http://allenai.org/team/orene/) (Allen Institute for Artificial Intelligence)
 + [Lise Getoor](https://getoor.soe.ucsc.edu/)  (University of California Santa Cruz)
 + [Alon Halevy](https://homes.cs.washington.edu/~alon/)  (Recruit Institute of Technology)
 + [Monica Lam](https://suif.stanford.edu/~lam/)  (Stanford University)
 + [Christopher Ré](https://cs.stanford.edu/people/chrismre/)  (Stanford University)
 + [Xifeng Yan](http://www.cs.ucsb.edu/~xyan/)  (University of California at Santa Barbara)
 + [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz)  (University of Washington)
-+ [Oren Etzioni](http://allenai.org/team/orene/) (Allen Institute for Artificial Intelligence)
 
 <br>
 
@@ -21,6 +21,14 @@ nav: true
 <img align="left" src="images/LunaDong.jpg" width="15%" style="margin: 0px 15px 5px 0px;"> [Xin Luna Dong](http://lunadong.com/)  (Amazon)
 
 Bio: Xin Luna Dong is a Principal Scientist at Amazon, leading the efforts of constructing Amazon Product Knowledge Graph. She was one of the major contributors to the Google Knowledge Vault project, and has led the Knowledge-based Trust project, which is called the "Google Truth Machine" by Washington's Post. She has co-authored book "Big Data Integration", published 70+ papers in top conferences and journals, and given 30+ keynotes/invited-talks/tutorials. She got the VLDB Early Career Research Contribution Award for advancing the state of the art of knowledge fusion, and got the Best Demo award in Sigmod 2005. She is the PC co-chair for Sigmod 2018 and WAIM 2015, and serves as an area chair for Sigmod 2017, CIKM 2017, Sigmod 2015, ICDE 2013, and CIKM 2011.
+
+<br>
+
+
+<img align="left" src="images/Oren.jpg" width="15%" style="margin: 0px 15px 0px 0px;"> [Oren Etzioni] (http://allenai.org/team/orene/) (Allen Institute for Artificial Intelligence)
+
+Bio: Dr. Oren Etzioni is Chief Executive Officer of the Allen Institute for Artificial Intelligence. He has been a Professor at the University of Washington's Computer Science department since 1991, receiving several awards including GeekWire's Hire of the Year (2014), Seattle's Geek of the Year (2013), the Robert Engelmore Memorial Award (2007), the IJCAI Distinguished Paper Award (2005), AAAI Fellow (2003), and a National Young Investigator Award (1993). He was also the founder or co-founder of several companies including Farecast (sold to Microsoft in 2008) and Decide (sold to eBay in 2013), and the author of over 100 technical papers that have garnered over 25,000 citations. The goal of Oren's research is to solve fundamental problems in AI, particularly the automatic learning of knowledge from text. Oren received his Ph.D. from Carnegie Mellon University in 1991, and his B.A. from Harvard in 1986.
+
 
 <br>
 
@@ -62,12 +70,5 @@ Bio: Xifeng Yan is a professor at the University of California, Santa Barbara. H
 <img align="left" src="images/Luke.jpg" width="15%" style="margin: 0px 15px 0px 0px;"> [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz)  (University of Washington)
 
 Bio: Luke Zettlemoyer is an Associate Professor of Computer Science & Engineering at the University of Washington. His research focuses on algorithms for learning to recover and make use of representations of the meaning of natural language text. He recently served as an area co-chair for NAACL and EMNLP, program co-chair for the Pacific Northwest Regional NLP workshop, and is the NAACL 2013 workshops co-chair.
-
-<br>
-
-<img align="left" src="images/Oren.jpg" width="15%" style="margin: 0px 15px 0px 0px;"> [Oren Etzioni] (http://allenai.org/team/orene/) (Allen Institute for Artificial Intelligence)
-
-Bio: Dr. Oren Etzioni is Chief Executive Officer of the Allen Institute for Artificial Intelligence. He has been a Professor at the University of Washington's Computer Science department since 1991, receiving several awards including GeekWire's Hire of the Year (2014), Seattle's Geek of the Year (2013), the Robert Engelmore Memorial Award (2007), the IJCAI Distinguished Paper Award (2005), AAAI Fellow (2003), and a National Young Investigator Award (1993). He was also the founder or co-founder of several companies including Farecast (sold to Microsoft in 2008) and Decide (sold to eBay in 2013), and the author of over 100 technical papers that have garnered over 25,000 citations. The goal of Oren's research is to solve fundamental problems in AI, particularly the automatic learning of knowledge from text. Oren received his Ph.D. from Carnegie Mellon University in 1991, and his B.A. from Harvard in 1986.
-
 
 <br>
