@@ -25,28 +25,27 @@ Xin Luna Dong is a Principal Scientist at Amazon, leading the efforts of constru
 
 <img align="left" src="images/Lise.jpg" width="15%"> [Lise Getoor](https://getoor.soe.ucsc.edu/)  (University of California Santa Cruz)
 
-<br>
-<br>
+<br></br>
+
 
 <img align="left" src="images/Alon.jpg" width="15%"> [Alon Halevy](https://homes.cs.washington.edu/~alon/)  (Recruit Institute of Technology)
 
-<br>
-<br>
+<br></br>
 
 <img align="left" src="images/MonicaLam.jpg" width="15%"> [Monica Lam](https://suif.stanford.edu/~lam/)  (Stanford University)
 
-<br>
-<br>
+<br></br>
+
 
 <img align="left" src="images/ChrisRe.jpg" width="15%"> [Christopher Ré](https://cs.stanford.edu/people/chrismre/)  (Stanford University)
 
-<br>
-<br>
+<br></br>
+
 
 <img align="left" src="images/XifengYan.jpg" width="15%"> [Xifeng Yan](http://www.cs.ucsb.edu/~xyan/)  (University of California at Santa Barbara)
 
-<br>
-<br>
+<br></br>
+
 
 <img align="left" src="images/Luke.jpg" width="15%"> [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz)  (University of Washington)
 
