@@ -17,8 +17,7 @@ nav: true
 
 # Speaker Bio (coming soon)
 
-<img align="left" src="images/LunaDong.jpg" width="15%">
- [Xin Luna Dong](http://lunadong.com/)  (Amazon)
+<img style="float: left" src="images/LunaDong.jpg" width="15%"> [Xin Luna Dong](http://lunadong.com/)  (Amazon)
 
 Xin Luna Dong is a Principal Scientist at Amazon, leading the efforts of constructing Amazon Product Knowledge Graph. She was one of the major contributors to the Google Knowledge Vault project, and has led the Knowledge-based Trust project, which is called the "Google Truth Machine" by Washington's Post. She has co-authored book "Big Data Integration", published 70+ papers in top conferences and journals, and given 30+ keynotes/invited-talks/tutorials. She got the VLDB Early Career Research Contribution Award for advancing the state of the art of knowledge fusion, and got the Best Demo award in Sigmod 2005. She is the PC co-chair for Sigmod 2018 and WAIM 2015, and serves as an area chair for Sigmod 2017, CIKM 2017, Sigmod 2015, ICDE 2013, and CIKM 2011.
 
