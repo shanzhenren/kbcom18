@@ -52,11 +52,11 @@ Position paper (2-4 pager)
 
 # Deadlines
 
-All deadlines are 11:59 PM Pacific time. See our [call for paper]()
-+ Paper submission: **Sunday November 12, 2017**
+All deadlines are 11:59 PM Pacific time.
++ Paper submission due: **Sunday November 12, 2017**
 + Notification of acceptance: Monday, December 11, 2017
-+ Camera ready submission: Jan 27, 2018
-+ Wrokshop: **Feb 9, 2018**  
++ Camera-ready due: Jan 27, 2018
++ Workshop: **Feb 9, 2018**  
 
 
 
