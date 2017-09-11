@@ -11,7 +11,7 @@ layout: default
 <br>
 
 # Overview
-The *1st Workshop on Knowledge Base Construction, Reasoning and Mining (KBCOM)* is a new workshop that will be co-located with [WSDM 2018](http://www.wsdm-conference.org/2018/). The success of data mining and search technologies is largely attributed to the efficient and effective analysis of structured data. Automated construction, mining and reasoning of the knowledge bases have become possible as research advances in many related areas such as information extraction, natural language processing, data mining, machine learning, and databases. This workshop aims to gather together leading experts from industry and academia to share their visions about the field, discuss latest research results, and exchange exciting ideas. 
+The *1st Workshop on Knowledge Base Construction, Reasoning and Mining (KBCOM)* is a new workshop that will be co-located with [WSDM 2018](http://www.wsdm-conference.org/2018/). The success of data mining and search technologies is largely attributed to the efficient and effective analysis of structured data. Automated construction, mining and reasoning of knowledge bases have become possible as research advances in many related areas such as information extraction, natural language processing, machine learning and databases. KBCOM aims to gather together leading experts from industry and academia to share their visions about the field, discuss latest research results, and exchange exciting ideas. 
 
 We aim to complement the main conference by trying to achieve the following goals:
 
