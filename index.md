@@ -23,7 +23,7 @@ We expect the highlight of the workshop to be the discussions and brainstorming 
 
 <br>
 
-# Invited Speakers ([details](http://kbcom.org/1-speaker.html))
+# Invited Speakers
 + [Luna Dong](http://lunadong.com/)  (Amazon)
 + [Oren Etzioni](http://allenai.org/team/orene/) (Allen Institute for Artificial Intelligence)
 + [Lise Getoor](https://getoor.soe.ucsc.edu/)  (University of California Santa Cruz)
@@ -32,6 +32,8 @@ We expect the highlight of the workshop to be the discussions and brainstorming 
 + [Christopher Ré](https://cs.stanford.edu/people/chrismre/)  (Stanford University)
 + [Xifeng Yan](http://www.cs.ucsb.edu/~xyan/)  (University of California at Santa Barbara)
 + [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz)  (University of Washington)
+
+Details about the speakers and talks can be found [here](http://kbcom.org/1-speaker.html).
 
 <br>
 
