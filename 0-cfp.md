@@ -29,7 +29,7 @@ The workshop is broad in scope related to knowledge bases, and invited original 
 <br>
 
 
-# Submissions (TBD)
+# Submissions (coming soon)
 
  We are soliciting submissions in three categories of papers: full workshop submissions, extended abstracts, and cross-submissions. All submissions will be made through [EasyChair]().
 
@@ -39,11 +39,10 @@ Short workshop paper (4 pager)
 
 Position paper (2-4 pager)
 
-
 <br>
 
 
-# Format requirement (TBD)
+# Format requirement (coming soon)
 
 (follow WSDM'18 formatting requirement)
 
