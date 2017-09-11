@@ -23,8 +23,9 @@ We expect the highlight of the workshop to be the discussions and brainstorming 
 
 <br>
 
-# Invited Speakers
+# Invited Speakers ([details](http://kbcom.org/1-speaker.html))
 + [Luna Dong](http://lunadong.com/)  (Amazon)
++ [Oren Etzioni](http://allenai.org/team/orene/) (Allen Institute for Artificial Intelligence)
 + [Lise Getoor](https://getoor.soe.ucsc.edu/)  (University of California Santa Cruz)
 + [Alon Halevy](https://homes.cs.washington.edu/~alon/)  (Recruit Institute of Technology)
 + [Monica Lam](https://suif.stanford.edu/~lam/)  (Stanford University)
