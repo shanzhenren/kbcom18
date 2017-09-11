@@ -12,7 +12,7 @@ nav: true
 + [Christopher Ré](https://cs.stanford.edu/people/chrismre/)  (Stanford University)
 + [Xifeng Yan](http://www.cs.ucsb.edu/~xyan/)  (University of California at Santa Barbara)
 + [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz)  (University of Washington)
-+ [Oren Etzioni] (http://allenai.org/team/orene/) (Allen Institute for Artificial Intelligence)
++ [Oren Etzioni](http://allenai.org/team/orene/) (Allen Institute for Artificial Intelligence)
 
 <br>
 
