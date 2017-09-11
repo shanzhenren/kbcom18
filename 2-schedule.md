@@ -6,5 +6,5 @@ nav: true
 
 # Schedule (TBD)
 
-A preview of the workshop schedule is as follow:
+A preview of the workshop schedule is coming soon.
 
