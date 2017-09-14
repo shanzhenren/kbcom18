@@ -52,11 +52,11 @@ Topics of interest include, but are not limited to:
 
 All papers will be peer reviewed, single-blinded. Papers must be submitted in PDF according to the new ACM format published in [ACM guidelines](http://www.acm.org/publications/proceedings-template), selecting the generic "sigconf" sample. The PDF files must have all non-standard fonts embedded. Submissions must be self-contained and in English. 
 
-We are soliciting submissions in three categories of papers (page limits not including references): 
+We are soliciting submissions in three categories of papers: 
 
-*   Full workshop submissions (8 pages + 1 page for references) 
-*   Short workshop submissions (4 pages + 1 page for references)  
-*   Position submissions (2-4 pages)
+*   Full workshop papers (8 pages + 1 page for references) 
+*   Short workshop papers (4 pages + 1 page for references)  
+*   Position papers (2-4 pages)
 
 ## Organization and Contact
 
