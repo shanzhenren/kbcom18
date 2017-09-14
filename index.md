@@ -17,20 +17,23 @@ We aim to complement the main conference by trying to achieve the following goal
 
 + *Research horizons in KBCOM*: The workshop focuses on **invited talks** from leading experts and **position papers**  discussing forward-looking work. Its program comprises a good number of [keynote speakers](http://kbcom.org/1-speaker.html) from both leading universities (Stanford, University of Washington and more) and industrial organizations like Amazon and Recruit Institute of Technology.
 
-+ *Idea exchange in KBCOM*: We will organize a **poster session** for researchers to share ideas, collect feedbacks and form collaborations. We particularly encourage participants to publish **new softwares and datasets** on related topics, and will hold novel **shared tasks** to help develop a better community.
++ *Idea exchange in KBCOM*: We will organize a **poster session** for researchers to share ideas, collect feedback and form collaborations. We particularly encourage participants to publish **new software and datasets** on related topics, and will hold novel **shared tasks** to help develop a better community.
 
-We expect the highlight of the workshop to be the discussions and brainstorming during invited talks and poster session. The workshop will also accept **regular submissions** of both full and short papers which will be presented either as *highlight talks* or during the poster session. With such focuses, KBCOM aims to provide a vivid forum for discussion about knowledge base-related research.
+We expect the highlight of the workshop to be the discussions and brainstorming during invited talks and poster session. The workshop will also accept **regular submissions** of both full and short papers which will be presented either as *highlight talks* or during the poster session. With such focuses, KBCOM aims to provide a vivid forum of discussion about knowledge base-related research.
 
 <br>
 
 # Invited Speakers
 + [Luna Dong](http://lunadong.com/)  (Amazon)
++ [Oren Etzioni](http://allenai.org/team/orene/) (Allen Institute for Artificial Intelligence)
 + [Lise Getoor](https://getoor.soe.ucsc.edu/)  (University of California Santa Cruz)
 + [Alon Halevy](https://homes.cs.washington.edu/~alon/)  (Recruit Institute of Technology)
 + [Monica Lam](https://suif.stanford.edu/~lam/)  (Stanford University)
 + [Christopher Ré](https://cs.stanford.edu/people/chrismre/)  (Stanford University)
 + [Xifeng Yan](http://www.cs.ucsb.edu/~xyan/)  (University of California at Santa Barbara)
 + [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz)  (University of Washington)
+
+Details about the speakers and talks can be found [here](http://kbcom.org/1-speaker.html).
 
 <br>
 
