@@ -58,7 +58,9 @@ We are soliciting submissions in three categories of papers (page limits not inc
 *   Short workshop submissions (4 pages + 1 page for references)  
 *   Position submissions (2-4 pages)
 
-## Contact
+## Organizer and Contact
+
+The workshop is organized by [Xiang Ren](http://xren7.web.engr.illinois.edu/) (USC)， [Craig Knoblock](http://usc-isi-i2.github.io/knoblock/) (USC/ISI)， [William Wang](https://www.cs.ucsb.edu/~william/) (UCSB), and [Yu Su](http://cs.ucsb.edu/~ysu/) (UCSB).
 
 All questions about submissions should be emailed to [info@kbcom.org](mailto:info@kbcom.org).
 
