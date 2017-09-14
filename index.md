@@ -19,21 +19,18 @@ We aim to complement the main conference by trying to achieve the following goal
 
 + *Idea exchange in KBCOM*: We will organize a **poster session** for researchers to share ideas, collect feedbacks and form collaborations. We particularly encourage participants to publish **new softwares and datasets** on related topics, and will hold novel **shared tasks** to help develop a better community.
 
-We expect the highlight of the workshop to be the discussions and brainstorming during invited talks and poster session. The workshop will also accept **regular submissions** of both full and short papers which will be presented either as *highlight talks* or during the poster session. With such focuses, KBCOM aims to provide a vivid forum of discussion about knowledge base-related research.
+We expect the highlight of the workshop to be the discussions and brainstorming during invited talks and poster session. The workshop will also accept **regular submissions** of both full and short papers which will be presented either as *highlight talks* or during the poster session. With such focuses, KBCOM aims to provide a vivid forum for discussion about knowledge base-related research.
 
 <br>
 
 # Invited Speakers
 + [Luna Dong](http://lunadong.com/)  (Amazon)
-+ [Oren Etzioni](http://allenai.org/team/orene/) (Allen Institute for Artificial Intelligence)
 + [Lise Getoor](https://getoor.soe.ucsc.edu/)  (University of California Santa Cruz)
 + [Alon Halevy](https://homes.cs.washington.edu/~alon/)  (Recruit Institute of Technology)
 + [Monica Lam](https://suif.stanford.edu/~lam/)  (Stanford University)
 + [Christopher Ré](https://cs.stanford.edu/people/chrismre/)  (Stanford University)
 + [Xifeng Yan](http://www.cs.ucsb.edu/~xyan/)  (University of California at Santa Barbara)
 + [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz)  (University of Washington)
-
-Details about the speakers and talks can be found [here](http://kbcom.org/1-speaker.html).
 
 <br>
 
@@ -61,7 +58,7 @@ Details about the speakers and talks can be found [here](http://kbcom.org/1-spea
 <br>
 
 # Organizers
-The workshop is organized by [Xiang Ren](http://xren7.web.engr.illinois.edu/) (USC)， [Craig Knoblock](http://usc-isi-i2.github.io/knoblock/) (USC/ISI)， [William Wang](https://www.cs.ucsb.edu/~william/) (UCSB), and [Yu Shu](http://cs.ucsb.edu/~ysu/) (UCSB).
+The workshop is organized by [Xiang Ren](http://xren7.web.engr.illinois.edu/) (USC)， [Craig Knoblock](http://usc-isi-i2.github.io/knoblock/) (USC/ISI)， [William Wang](https://www.cs.ucsb.edu/~william/) (UCSB), and [Yu Su](http://cs.ucsb.edu/~ysu/) (UCSB).
 
 For any questions, please email [info@kbcom.org](mailto:info@kbcom.org)
 
