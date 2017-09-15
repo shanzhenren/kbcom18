@@ -69,6 +69,6 @@ Bio: Xifeng Yan is a professor at the University of California, Santa Barbara. H
 
 <img align="left" src="images/Luke.jpg" width="15%" style="margin: 0px 15px 0px 0px;"> [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz)  (University of Washington)
 
-Bio: Luke Zettlemoyer is an Associate Professor of Computer Science & Engineering at the University of Washington. His research focuses on algorithms for learning to recover and make use of representations of the meaning of natural language text. He recently served as an area co-chair for NAACL and EMNLP, program co-chair for the Pacific Northwest Regional NLP workshop, and is the NAACL 2013 workshops co-chair.
+Bio: Luke Zettlemoyer is an Associate Professor in the Allen School of Computer Science & Engineering at the University of Washington, and also leads the AllenNLP project at the Allen Institute for Artificial Intelligence. His research is in core semantics, where he works on data and algorithms for learning to recover and make use of representations of the meaning of natural language text. Honors include multiple best papers, a PECASE award, and being named an Allen Distinguished Investigator. Luke received his PhD from MIT and was a postdoctoral fellow at the University of Edinburgh.
 
 <br>
