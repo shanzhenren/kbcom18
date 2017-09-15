@@ -51,12 +51,12 @@ From the submitted full workshop papers, between zero and two papers will be sel
 
 ### Extended Abstract
 
-Preliminary ideas or results may also be submitted as extended abstracts, with a length of 2 to 4 pages plus 1 additional page for references. Similarly to full papers, these abstracts will follow the new ACM format, be submitted through EasyChair, and be reviewed by the program committee. Accepted abstracts will be presented as posters. Submissions should put "This is a submission to the extended abstract track." at the end of the abstract submitted to EasyChair (it does not need to be noted in the paper itself).
+Preliminary ideas or results may also be submitted as extended abstracts, with a length of 2 to 4 pages plus 1 additional page for references. Similarly to full papers, these abstracts will follow the new ACM format, be submitted through EasyChair, and be reviewed by the program committee. Accepted abstracts will be presented as posters. Submissions should put "**This is a submission to the extended abstract track.**" at the end of the abstract submitted to EasyChair (it does not need to be noted in the paper itself).
 
 
 ### Cross-submissions
 
-We also accept cross-submissions that have already been published or presented in other venues for consideration as poster presentations, which will allow authors who have presented at other venues to discuss with and get feedback from the researchers in the workshop. There is no restriction on the format of the submissions (in other words, it is OK to submit a paper from a different venue _as-is_). Papers should put "This is a submission to the cross-submission track, presented at [name of other venue]." at the end of the abstract submitted to EasyChair (it does not need to be noted in the paper itself).
+We also accept cross-submissions that have already been published or presented in other venues for consideration as poster presentations, which will allow authors who have presented at other venues to discuss with and get feedback from the researchers in the workshop. There is no restriction on the format of the submissions (in other words, it is OK to submit a paper from a different venue _as-is_). Papers should put "**This is a submission to the cross-submission track, presented at [name of other venue].**" at the end of the abstract submitted to EasyChair (it does not need to be noted in the paper itself).
 
 
 ## Organization and Contact
