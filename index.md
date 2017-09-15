@@ -19,7 +19,7 @@ We aim to complement the main conference by trying to achieve the following goal
 
 + *Idea exchange in KBCOM*: We will organize a **poster session** for researchers to share ideas, collect feedback and form collaborations. We particularly encourage participants to publish **new software and datasets** on related topics, and will hold novel **shared tasks** to help develop a better community.
 
-We expect the highlight of the workshop to be the discussions and brainstorming during invited talks and poster session. The workshop will also accept **regular submissions** of both full and short papers which will be presented either as *highlight talks* or during the poster session. With such focuses, KBCOM aims to provide a vivid forum of discussion about knowledge base-related research.
+We expect the highlight of the workshop to be the discussions and brainstorming during invited talks and poster session. The workshop will also accept **regular submissions** of original research or position/visionary papers which will be presented either as *highlight talks* or during the poster session. With such focuses, KBCOM aims to provide a vivid forum of discussion about knowledge base-related research.
 
 <br>
 
