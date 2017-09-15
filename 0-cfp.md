@@ -32,31 +32,31 @@ The workshop is broad in scope and invites original research contributions on to
 
 ## Submission Guidelines
 
-All papers will be peer reviewed, single-blinded. Submissions must be self-contained and in English. 
+All papers will be peer reviewed, **single-blinded**. Submissions must be self-contained and in English. Papers must be submitted in PDF according to the new ACM format published in [ACM guidelines](http://www.acm.org/publications/proceedings-template), selecting the generic "sigconf" sample. **The accepted papers will be published on the workshop's website and will not be considered archival for resubmission purposes.**
 
 We are soliciting submissions in three categories of papers: 
 
-*   Full workshop papers (8 pages + 1 page for references) 
-*   Extended abstracts (2-4 pages + 1 page for references)
-*   Cross submissions (unlimited)
+*   Full workshop papers of original research (8 pages + 1 page for references) 
+*   Short workshop papers of original research (2-4 pages + 1 page for references)
+*   Position/visionary papers (unlimited)
 
 ### Full Workshop Paper
 
-Authors should submit a long paper of up to 8 pages, with up to 1 additional page for references. Papers must be submitted in PDF according to the new ACM format published in [ACM guidelines](http://www.acm.org/publications/proceedings-template), selecting the generic "sigconf" sample. The reported research should be original work. All papers will be presented as posters, and a few selected papers may also be presented orally at the discretion of the program committee. 
+Authors should submit a long paper of up to 8 pages, with up to 1 additional page for references. The reported research should be original work. All papers will be presented as posters, and a few selected papers may also be presented orally at the discretion of the program committee. 
 
 
 ### Best Paper Award
 
 From the submitted full workshop papers, between zero and two papers will be selected for best paper awards at the discretion of the program committee.
 
-### Extended Abstract
+### Short Workshop Paper
 
-Preliminary ideas or results may also be submitted as extended abstracts, with a length of 2 to 4 pages plus 1 additional page for references. Similarly to full papers, these abstracts will follow the new ACM format, be submitted through EasyChair, and be reviewed by the program committee. Accepted abstracts will be presented as posters. Submissions should put "**This is a submission to the extended abstract track.**" at the end of the abstract submitted to EasyChair (it does not need to be noted in the paper itself).
+Preliminary ideas or results may also be submitted as short papers, with a length of 2 to 4 pages plus 1 additional page for references. Similarly to full papers, these abstracts will follow the new ACM format, be submitted through EasyChair, and be reviewed by the program committee. Accepted papers will be presented as posters. Submissions should put "**This is a submission for the short paper track.**" at the end of the abstract submitted to EasyChair (it does not need to be noted in the paper itself).
 
 
-### Cross-submissions
+### Position/Visionary Paper
 
-We also accept cross-submissions that have already been published or presented in other venues for consideration as poster presentations, which will allow authors who have presented at other venues to discuss with and get feedback from the researchers in the workshop. There is no restriction on the format of the submissions (in other words, it is OK to submit a paper from a different venue _as-is_). Papers should put "**This is a submission to the cross-submission track, presented at [name of other venue].**" at the end of the abstract submitted to EasyChair (it does not need to be noted in the paper itself).
+We also encourage position or visionary papers that propose new directions of relevant research, advocate innovative approaches to long-standing problems, or report on deep insights gained from experience with existing systems. There is no page limit for such submissions. Accepted papers will be presented as posters. Papers should put "**This is a submission for the position/visionary paper track.**" at the end of the abstract submitted to EasyChair (it does not need to be noted in the paper itself).
 
 
 ## Organization and Contact
