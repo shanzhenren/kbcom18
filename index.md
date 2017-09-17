@@ -5,8 +5,6 @@ layout: default
 ## at [WSDM 2018](http://www.wsdm-conference.org/2018/) in Los Angeles, California, Feb 9, 2018.  
 <a href="https://twitter.com/share" class="twitter-share-button" data-size="large" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> <div class="fb-share-button" data-href="http://kbcom.org/" data-layout="button_count" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fkbcom.org%2F&amp;src=sdkpreparse">Share</a></div>
 
-<br>
-
 {% include figure.html file="la.png" alt="intro image here" width="85%" %}
 
 <br>
