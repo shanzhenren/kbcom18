@@ -31,7 +31,7 @@ We expect the highlight of the workshop to be the discussions and brainstorming 
 + [Monica Lam](https://suif.stanford.edu/~lam/)  (Stanford University)
 + [Christopher Ré](https://cs.stanford.edu/people/chrismre/)  (Stanford University)
 + [Xifeng Yan](http://www.cs.ucsb.edu/~xyan/)  (University of California at Santa Barbara)
-+ [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz)  (University of Washington and (Allen Institute for Artificial Intelligence)
++ [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz)  (University of Washington & Allen Institute for Artificial Intelligence)
 
 Details about the speakers and talks can be found [here](http://kbcom.org/1-speaker.html).
 
