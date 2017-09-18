@@ -12,7 +12,7 @@ nav: true
 + [Monica Lam](https://suif.stanford.edu/~lam/)  (Stanford University)
 + [Christopher Ré](https://cs.stanford.edu/people/chrismre/)  (Stanford University)
 + [Xifeng Yan](http://www.cs.ucsb.edu/~xyan/)  (University of California at Santa Barbara)
-+ [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz)  (University of Washington and (Allen Institute for Artificial Intelligence)
++ [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz)  (University of Washington & Allen Institute for Artificial Intelligence)
 
 <br>
 
@@ -67,7 +67,7 @@ Bio: Xifeng Yan is a professor at the University of California, Santa Barbara. H
 <br>
 
 
-<img align="left" src="images/Luke.jpg" width="15%" style="margin: 0px 15px 0px 0px;"> [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz)  (University of Washington and (Allen Institute for Artificial Intelligence)
+<img align="left" src="images/Luke.jpg" width="15%" style="margin: 0px 15px 0px 0px;"> [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz)  (University of Washington and Allen Institute for Artificial Intelligence)
 
 Bio: Luke Zettlemoyer is an Associate Professor in the Allen School of Computer Science & Engineering at the University of Washington, and also leads the AllenNLP project at the Allen Institute for Artificial Intelligence. His research is in core semantics, where he works on data and algorithms for learning to recover and make use of representations of the meaning of natural language text. Honors include multiple best papers, a PECASE award, and being named an Allen Distinguished Investigator. Luke received his PhD from MIT and was a postdoctoral fellow at the University of Edinburgh.
 
