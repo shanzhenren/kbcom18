@@ -13,7 +13,26 @@ nav: true
 
 <br>
 
-# Program Committee (TBD)
+# Program Committee
+
++ Stephen Bach
++ Li Dong
++ Tim Finin
++ Karuna Joshi
++ Mayank Kejriwal
++ Zhiyuan Liu
++ Varish Mulwad
++ Ndapa Nakashole
++ Jay Pujara
++ Alex Ratner
++ Siva Reddy
++ Yangqiu Song
++ Huan Sun
++ Pedro Szekely
++ Gerhard Weikum
++ Yuhao Zhang
++ Lei Zou
+
 
 <br>
 
