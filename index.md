@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Overview
 ---
 # [KBCOM 2018](http://kbcom.org): First Workshop on Knowledge Base Construction, Reasoning and Mining
 ## at [WSDM 2018](http://www.wsdm-conference.org/2018/) in Los Angeles, California, Feb 9, 2018.  
