@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Call for Papers
+title: Call for Papers & Dates
 nav: true
 ---
 
@@ -8,7 +8,17 @@ nav: true
 
 **Submission website**: [https://easychair.org/conferences/?conf=kbcom2018](https://easychair.org/conferences/?conf=kbcom2018)
 
-**Submission deadline**: November 12, 2017 
+
+# Deadlines
+
+All deadlines are 11:59 PM Pacific time.
+
++ Call for Papers: Wednesday Sep 13, 2017
++ Submission Due: **Sunday Nov 12, 2017**
++ Notification of acceptance: **Monday, Dec 11, 2017**
++ Camera-ready Due: Jan 27, 2018
++ Workshop: **Feb 9, 2018**  
+
 
 ## List of Topics 
 
