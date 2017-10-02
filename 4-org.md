@@ -30,9 +30,11 @@ nav: true
 + Huan Sun
 + Pedro Szekely
 + Gerhard Weikum
++ Scott Yih
 + Yuhao Zhang
 + Lei Zou
 
+We are waiting for more PC candidates to finalize.
 
 <br>
 
