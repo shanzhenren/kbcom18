@@ -9,7 +9,7 @@ nav: true
 **Submission website**: [https://easychair.org/conferences/?conf=kbcom2018](https://easychair.org/conferences/?conf=kbcom2018)
 
 
-# Deadlines
+## Dates
 
 All deadlines are 11:59 PM Pacific time.
 
