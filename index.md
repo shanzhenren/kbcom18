@@ -67,3 +67,9 @@ The workshop is organized by [Xiang Ren](http://xren7.web.engr.illinois.edu/) (U
 For any questions, please email [info@kbcom.org](mailto:info@kbcom.org)
 
 <br>
+
+# Sponsors
+
+We thank our sponsors for their generous support!
+
+{% include figure.html file="amazon_logo.jpg" width="30%" %} 

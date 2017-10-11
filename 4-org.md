@@ -20,6 +20,7 @@ nav: true
 + Tim Finin
 + Karuna Joshi
 + Mayank Kejriwal
++ Kang Liu
 + Zhiyuan Liu
 + Varish Mulwad
 + Ndapa Nakashole
