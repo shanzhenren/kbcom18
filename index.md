@@ -72,4 +72,4 @@ For any questions, please email [info@kbcom.org](mailto:info@kbcom.org)
 
 We thank our sponsors for their generous support!
 
-{% include figure.html file="amazon_logo.jpg" width="30%" %} 
+{% include figure.html file="amazon_logo.jpg" alt="" width="30%" %} 
