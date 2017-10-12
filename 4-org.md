@@ -33,6 +33,7 @@ nav: true
 + Gerhard Weikum
 + Scott Yih
 + Yuhao Zhang
++ Xiang Zhao
 + Lei Zou
 
 We are waiting for more PC candidates to finalize.
