@@ -32,11 +32,11 @@ nav: true
 + Pedro Szekely
 + Gerhard Weikum
 + Scott Yih
++ Sicong Zhang
 + Yuhao Zhang
 + Xiang Zhao
 + Lei Zou
 
-We are waiting for more PC candidates to finalize.
 
 <br>
 
