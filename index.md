@@ -16,7 +16,7 @@ The *1st Workshop on Knowledge Base Construction, Reasoning and Mining (KBCOM)* 
 
 We aim to complement the main conference by trying to achieve the following goals:
 
-+ *Research horizons in KBCOM*: The workshop focuses on **invited talks** from leading experts and **position papers**  discussing forward-looking work. Its program comprises a good number of [keynote speakers](http://kbcom.org/1-speaker.html) from both leading universities (Stanford, University of Washington and more) and industrial organizations like Amazon and Recruit Institute of Technology.
++ *Research horizons in KBCOM*: The workshop focuses on **invited talks** from leading experts and **position papers**  discussing forward-looking work. Its program comprises a good number of [keynote speakers](http://kbcom.org/3-speaker.html) from both leading universities (Stanford, University of Washington and more) and industrial organizations like Amazon and Recruit Institute of Technology.
 
 + *Idea exchange in KBCOM*: We will organize a **poster session** for researchers to share ideas, collect feedback and form collaborations. We particularly encourage participants to publish **new software and datasets** on related topics, and will hold novel **shared tasks** to help develop a better community.
 
@@ -28,7 +28,7 @@ We expect the highlight of the workshop to be the discussions and brainstorming 
 {% include figure.html file="speaker.jpg" alt="intro image here" width="110%" %}
 
 
-Details about the speakers and talks can be found [here](http://kbcom.org/1-speaker.html).
+Details about the speakers and talks can be found [here](http://kbcom.org/3-speaker.html).
 
 <br>
 
