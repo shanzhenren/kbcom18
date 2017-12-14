@@ -1,0 +1,61 @@
+Accept:
+
+Dear [*NAME*],
+
+Congratulations!
+
+Your paper:
+
+[*NUMBER*] - [*TITLE*]
+
+has been accepted for inclusion in the KBCOM 2018 workshop (http://kbcom.org) co-located with WSDM 2018. The reviews of your paper are at the bottom of this email.
+
+The camera ready deadline is January 27, 2018. A separate email will be sent with instructions for preparation of the camera-ready version of the paper. Please consider the reviewers' comments when preparing the camera-ready version.
+
+We will notify you about the presentation arrangement with a separate email later. We require that one of the authors of your paper attends the conference and presents your work. Please let us know if you need invitation letter for US visa application.
+
+Congratulations again on the acceptance of your paper, best regards,
+
+KBCOM 2018 PC Chairs
+Xiang Ren, Craig Knoblock, William Wang, Yu Su
+
+
+---------------------------------------------------------------------
+
+Conditional accept:
+
+Dear [*NAME*],
+
+We are writing to notify you that your paper:
+
+[*NUMBER*] - [*TITLE*]
+
+has been conditionally accepted for inclusion in the KBCOM 2018 workshop (http://kbcom.org) co-located with WSDM 2018. The reviews of your paper are at the bottom of this email.
+
+Note that the acceptance is contingent on revision based on the reviews. Please carefully read the reviews and address the concerns of the reviewers, and submit the revision on EasyChair by December 27, 2017 (23:59 PM PST). The program committee will review the revision and make the final decision. 
+
+Best regards,
+
+KBCOM 2018 PC Chairs
+Xiang Ren, Craig Knoblock, William Wang, Yu Su
+
+
+---------------------------------------------------------------------
+
+Reject:
+
+Dear [*NAME*],
+
+We regret to inform you that your submission was not selected for the KBCOM 2018 workshop:
+
+[*NUMBER*] - [*TITLE*]
+
+The program committee worked very hard to thoroughly review all the submitted papers. The reviews of your paper are at the bottom of this email. We hope these will be useful to revise your work for future submissions.
+
+We very much hope you will be able to attend KBCOM 2018 this coming February in Los Angeles, USA.
+
+Best regards,
+
+KBCOM 2018 PC Chairs
+Xiang Ren, Craig Knoblock, William Wang, Yu Su
+

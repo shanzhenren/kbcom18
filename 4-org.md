@@ -20,6 +20,8 @@ nav: true
 + Tim Finin
 + Karuna Joshi
 + Mayank Kejriwal
++ Madian Khabsa
++ Honglei Liu
 + Kang Liu
 + Zhiyuan Liu
 + Varish Mulwad
@@ -31,6 +33,9 @@ nav: true
 + Huan Sun
 + Pedro Szekely
 + Gerhard Weikum
++ Yinghui Wu
++ Frank Xu
++ Semih Yavuz
 + Scott Yih
 + Sicong Zhang
 + Yuhao Zhang
