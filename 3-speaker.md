@@ -35,8 +35,8 @@ Bio: Dr. Oren Etzioni is Chief Executive Officer of the Allen Institute for Arti
 <img align="left" src="images/Tim.jpg" width="15%" style="margin: 0px 15px 5px 0px;"> [Tim Finin](https://www.csee.umbc.edu/~finin/) (University of Maryland, Baltimore County)
 
 Bio: Dr. Tim Finin is the Willard and Lillian Hackerman Chair in Engineering and a Professor of Computer Science and Electrical Engineering at the University of Maryland, Baltimore County (UMBC). He has over 35 years of experience in applications of artificial intelligence to problems in information systems and language understanding. His current research is focused on the Semantic Web, mobile computing, analyzing and extracting information from text, and on enhancing security and privacy in information systems. He is a fellow of the Association for the Advancement of Artificial Intelligence (AAAI), an IEEE technical achievement award recipient and was selected as the UMBC Presidential Research Professor in 2012.
-<br>
 
+<br>
 
 <img align="left" src="images/Alon.jpg" width="15%" style="margin: 0px 15px 5px 0px;"> [Alon Halevy](https://homes.cs.washington.edu/~alon/)  (Recruit Institute of Technology)
 
