@@ -7,7 +7,7 @@ nav: true
 # Invited Speakers
 + [Xin Luna Dong](http://lunadong.com/)  (Amazon)
 + [Oren Etzioni](http://allenai.org/team/orene/) (Allen Institute for Artificial Intelligence)
-+ [Lise Getoor](https://getoor.soe.ucsc.edu/)  (University of California Santa Cruz)
++ [Tim Finin](https://www.csee.umbc.edu/~finin/) (University of Maryland, Baltimore County)
 + [Alon Halevy](https://homes.cs.washington.edu/~alon/)  (Recruit Institute of Technology)
 + [Monica Lam](https://suif.stanford.edu/~lam/)  (Stanford University)
 + [Christopher Ré](https://cs.stanford.edu/people/chrismre/)  (Stanford University)
@@ -32,10 +32,9 @@ Bio: Dr. Oren Etzioni is Chief Executive Officer of the Allen Institute for Arti
 
 <br>
 
-<img align="left" src="images/Lise.jpg" width="15%" style="margin: 0px 15px 5px 0px;"> [Lise Getoor](https://getoor.soe.ucsc.edu/)  (University of California Santa Cruz)
+<img align="left" src="images/Tim.jpg" width="15%" style="margin: 0px 15px 5px 0px;"> [Tim Finin](https://www.csee.umbc.edu/~finin/) (University of Maryland, Baltimore County)
 
-Bio: Lise Getoor is a Professor in the Computer Science Department at the University of California, Santa Cruz. Her research areas include machine learning, data integration and reasoning under uncertainty, with an emphasis on graph and network data. She has over 200 publications and extensive experience with machine learning and probabilistic modeling methods for graph and network data. She is a Fellow of the Association for Artificial Intelligence, an elected board member of the International Machine Learning Society, serves on the DARPA ISAT Study Group (2016-2019) and the board of the Computing Research Association (CRA), and was co-chair for ICML 2011. She is a recipient of an NSF Career Award and eleven best paper and best student paper awards. In 2014, she was recognized by KDD Nuggets as one of the emerging research leaders in data mining and data science based on citation and impact. She received her PhD from Stanford University in 2001, her MS from UC Berkeley, and her BS from UC Santa Barbara, and was a Professor in the Computer Science Department at the University of Maryland, College Park from 2001-2013.
-
+Bio: Dr. Tim Finin is the Willard and Lillian Hackerman Chair in Engineering and a Professor of Computer Science and Electrical Engineering at the University of Maryland, Baltimore County (UMBC). He has over 35 years of experience in applications of artificial intelligence to problems in information systems and language understanding. His current research is focused on the Semantic Web, mobile computing, analyzing and extracting information from text, and on enhancing security and privacy in information systems. He is a fellow of the Association for the Advancement of Artificial Intelligence (AAAI), an IEEE technical achievement award recipient and was selected as the UMBC Presidential Research Professor in 2012.
 <br>
 
 
