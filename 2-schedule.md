@@ -6,5 +6,5 @@ nav: true
 
 # Schedule (TBD)
 
-A preview of the workshop schedule is available for <a href="images/Schedule.pdf" target="_blank">here</a>.
+A preview of the workshop schedule is available <a href="images/Schedule.pdf" target="_blank">here</a>.
 
