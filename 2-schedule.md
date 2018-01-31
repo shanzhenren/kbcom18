@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Schedule
+title: Program
 nav: true
 ---
 
-# Schedule (TBD)
+# Workshop Schedule
 
 A preview of the workshop schedule is available <a href="images/Schedule.pdf" target="_blank">here</a>.
 
@@ -15,6 +15,7 @@ A preview of the workshop schedule is available <a href="images/Schedule.pdf" ta
     </embed>
 </object>
 -->
+
 
 # Accepted Papers
 
