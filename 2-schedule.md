@@ -10,7 +10,7 @@ A preview of the workshop schedule is available <a href="images/Schedule.pdf" ta
 
 # Accepted Papers
 
-* [Mechanistic hypothesis generation in molecular biology: A grand challenge for knowledge-based reasoning](./papers/KBCOM_2018_paper_10.pdf)
+* [Mechanistic Hypothesis Generation in Molecular Biology: A Grand Challenge for Knowledge-based Reasoning](./papers/KBCOM_2018_paper_10.pdf)
 
    Author(s): Lawrence Hunter (University of Colorado) 
 * [Event Detection and Evolution Based on Knowledge Base](./papers/KBCOM_2018_paper_1.pdf)
@@ -50,7 +50,7 @@ Technology); Jianxin Li (Beihang University)
 
    Author(s): Varun Embar (UCSC); Golnoosh Farnadi (UCSC); Jay Pujara (USC); Lise Getoor (UCSC)
 
-* [Variational Knowledge Graph Reasoning](./papers/KBCOM_2018_paper_17.pdf)
+* [A Joint Framework for Path Finding and Path Reasoning](./papers/KBCOM_2018_paper_17.pdf)
 
    Author(s): Wenhu Chen (UCSB); William Wang (UCSB); Xifeng Yan (UCSB)
 
