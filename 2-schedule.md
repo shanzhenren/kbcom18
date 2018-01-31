@@ -8,6 +8,12 @@ nav: true
 
 A preview of the workshop schedule is available <a href="images/Schedule.pdf" target="_blank">here</a>.
 
+<object data="images/Schedule.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="images/Schedule.pdf">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="images/Schedule.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 # Accepted Papers
 
 * [Mechanistic Hypothesis Generation in Molecular Biology: A Grand Challenge for Knowledge-based Reasoning](./papers/KBCOM_2018_paper_10.pdf)
