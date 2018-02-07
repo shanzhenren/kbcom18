@@ -61,7 +61,7 @@ Technology); Jianxin Li (Beihang University)
 
 
 # Accepted Papers
-(in random ordering)
+(In random ordering)
 
 * [Mechanistic Hypothesis Generation in Molecular Biology: A Grand Challenge for Knowledge-based Reasoning](./papers/KBCOM_2018_paper_10.pdf)
 
