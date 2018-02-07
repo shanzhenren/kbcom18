@@ -12,7 +12,7 @@ A preview of the workshop schedule is available <a href="images/Schedule.pdf" ta
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;             | Title             | Speaker&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |:-------------|:-----------------|:----------|
-| 09:00-09:10   | Opening Remarks   | KBCOM Organizers |
+| 09:00-09:10   | Opening Remarks   | Organizers |
 | 09:10-09:40   | Keeping the Internet Open with an Open-Source Programmable Virtual Assistant | Monica Lam |
 | 09:40-10:10  | Challenges and Innovations in Building a Product Knowledge Graph | Luna Dong |
 | 10:10-10:40 | Creating Knowledge Bases from Text | Alon Halevy |
