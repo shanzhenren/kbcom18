@@ -4,10 +4,10 @@ title: Program
 nav: true
 ---
 
-# Location: KBCOM 2018 will be held at [The Ritz-Carlton, Marina del Rey](http://www.ritzcarlton.com/en/hotels/california/marina-del-rey#Hotel) (Salon I), co-located with [WSDM 2018](http://www.wsdm-conference.org/2018/index.html).
-
-
 # Workshop Schedule
+
+**Location**: KBCOM 2018 will be held at [The Ritz-Carlton, Marina del Rey](http://www.ritzcarlton.com/en/hotels/california/marina-del-rey#Hotel) (Salon I), co-located with [WSDM 2018](http://www.wsdm-conference.org/2018/index.html).
+
 
 <!--
 A preview of the workshop schedule is available <a href="images/Schedule.pdf" target="_blank">here</a>.
