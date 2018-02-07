@@ -22,9 +22,9 @@ A preview of the workshop schedule is available <a href="images/Schedule.pdf" ta
 | 12:30-2:00  | Lunch Break & Poster Session | |
 | 2:00-2:30   | TBD               | Chris Ré |
 | 2:30-3:00   | TBD               | Luke Zettlemoyer |
-| 3:00-3:15   | Oral Presentation 1 | |
-| 3:15-3:30   | Oral Presentation 2 | |
-| 3:30-3:45   | Oral Presentation 3 | |
+| 3:00-3:15   | Event Detection and Evolution Based on Knowledge Base | |
+| 3:15-3:30   | Temporal Reasoning Over Event Knowledge Graphs | |
+| 3:30-3:45   | Analysis of the Impact of Negative Sampling on Link Prediction in Knowledge Graphs | |
 | 3:45-4:30   | Afternoon Poster Session and Coffee Break | |
 | 4:30-5:00   | TBD               | Xifeng Yan |
 | 5:00-5:30   | Panel Discussion  | |
