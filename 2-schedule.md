@@ -40,16 +40,32 @@ A preview of the workshop schedule is available <a href="images/Schedule.pdf" ta
 -->
 <br />
 
+# Awards
+
+## Best Paper
+
+* [Analysis of the Impact of Negative Sampling on Link Prediction in Knowledge Graphs](./papers/KBCOM_2018_paper_4.pdf)
+
+   Author(s): Bhushan Kotnis (University of Heidelberg); Vivi Nastase (University of Heidelberg)
+
+# Honorable Mentions
+
+* [Temporal Reasoning Over Event Knowledge Graphs](./papers/KBCOM_2018_paper_11.pdf)
+
+   Author(s): Ali Sadeghian (University of Florida); Miguel Rodriguez (University of Florida); Daisy Zhe Wang (University of Florida); Anthony Colas (University of Florida)
+
+* [Event Detection and Evolution Based on Knowledge Base](./papers/KBCOM_2018_paper_1.pdf)
+
+   Author(s): Yaopeng Liu (Beihang University); Hao Peng (Beihang University); Jie Guo (Beihang University); Tao He (Beihang University); Xiong Li (National Computer Network Emergency Response Technical Team/Coordination Center of China); Yangqiu Song (Hong Kong University of Science and
+Technology); Jianxin Li (Beihang University)
+
+
 # Accepted Papers
 (in random ordering)
 
 * [Mechanistic Hypothesis Generation in Molecular Biology: A Grand Challenge for Knowledge-based Reasoning](./papers/KBCOM_2018_paper_10.pdf)
 
    Author(s): Lawrence Hunter (University of Colorado) 
-* [Event Detection and Evolution Based on Knowledge Base](./papers/KBCOM_2018_paper_1.pdf)
-
-   Author(s): Yaopeng Liu (Beihang University); Hao Peng (Beihang University); Jie Guo (Beihang University); Tao He (Beihang University); Xiong Li (National Computer Network Emergency Response Technical Team/Coordination Center of China); Yangqiu Song (Hong Kong University of Science and
-Technology); Jianxin Li (Beihang University)
 
 * [Analysis of the Impact of Negative Sampling on Link Prediction in Knowledge Graphs](./papers/KBCOM_2018_paper_4.pdf)
 
@@ -70,6 +86,11 @@ Technology); Jianxin Li (Beihang University)
 * [Extracting New Knowledge from Web Tables: Novelty or Confidence?](./papers/KBCOM_2018_paper_7.pdf)
 
    Author(s): Benno Kruit (Centrum Wiskunde & Informatica); Peter Boncz (Centrum Wiskunde & Informatica); Jacopo Urbani (Vrije Universiteit Amsterdam)
+
+* [Event Detection and Evolution Based on Knowledge Base](./papers/KBCOM_2018_paper_1.pdf)
+
+   Author(s): Yaopeng Liu (Beihang University); Hao Peng (Beihang University); Jie Guo (Beihang University); Tao He (Beihang University); Xiong Li (National Computer Network Emergency Response Technical Team/Coordination Center of China); Yangqiu Song (Hong Kong University of Science and
+Technology); Jianxin Li (Beihang University)
 
 * [Mining Cross-Cultural Differences of Named Entities: A Preliminary Study](./papers/KBCOM_2018_paper_12.pdf)
 
