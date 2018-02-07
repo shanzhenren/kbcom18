@@ -14,16 +14,16 @@ A preview of the workshop schedule is available <a href="images/Schedule.pdf" ta
 |:-------------|:-----------------|:----------|
 | 09:00-09:10   | Opening Remarks   | KBCOM Organizers |
 |||
-| 09:10-09:40   | **Keeping the Internet Open with an Open-Source Programmable Virtual Assistant** | [Monica Lam](https://suif.stanford.edu/~lam/)  (Stanford) |
+| 09:10-09:40   | **Keeping the Internet Open with an Open-Source Programmable Virtual Assistant** | [Monica Lam](https://suif.stanford.edu/~lam/) |
 |||
 | 09:40-10:10  | **Challenges and Innovations in Building a Product Knowledge Graph** | [Xin Luna Dong](http://lunadong.com/)  |
 |||
 | 10:10-10:40 | **Creating Knowledge Bases from Text** | [Alon Halevy](https://homes.cs.washington.edu/~alon/) |
 |||
 | 10:40-11:30 | Morning Poster Session & Coffee Break  |
-| 11:30-12:00 | **Project Alexandria: Constructing a KB of Common Sense** | Oren Etzioni |
+| 11:30-12:00 | **Project Alexandria: Constructing a KB of Common Sense** | [Oren Etzioni](http://allenai.org/team/orene/) |
 |||
-| 12:00-12:30 | From Strings to Things: Populating Knowledge Bases from Text | [Tim Finin](https://www.csee.umbc.edu/~finin/) |
+| 12:00-12:30 | **From Strings to Things: Populating Knowledge Bases from Text** | [Tim Finin](https://www.csee.umbc.edu/~finin/) |
 |||
 | 12:30-14:00  | Lunch Break & Poster Session |
 |||
@@ -31,11 +31,11 @@ A preview of the workshop schedule is available <a href="images/Schedule.pdf" ta
 |||
 | 14:30-15:00   | **End-to-end Learning for Broad Coverage Semantics** | [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz)  |
 |||
-| 15:00-15:15   | Event Detection and Evolution Based on Knowledge Base | |
+| 15:00-15:15   | **Contributed talk**: Event Detection and Evolution Based on Knowledge Base | |
 |||
-| 15:15-15:30   | Temporal Reasoning Over Event Knowledge Graphs | |
+| 15:15-15:30   | **Contributed talk**: Temporal Reasoning Over Event Knowledge Graphs | |
 |||
-| 15:30-15:45   | Analysis of the Impact of Negative Sampling on Link Prediction in Knowledge Graphs | |
+| 15:30-15:45   | **Contributed talk**: Analysis of the Impact of Negative Sampling on Link Prediction in Knowledge Graphs | |
 |||
 | 15:45-16:30   | Afternoon Poster Session & Coffee Break | |
 |||
@@ -43,7 +43,7 @@ A preview of the workshop schedule is available <a href="images/Schedule.pdf" ta
 |||
 | 17:00-17:30   | Panel Discussion | Invited Speakers |
 |||
-| 17:30-17:40   |Best paper Awards and Closing Remarks |KBCOM Organizers |
+| 17:30-17:40   | Best paper Awards and Closing Remarks |KBCOM Organizers |
 
 
 <!--
