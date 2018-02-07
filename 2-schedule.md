@@ -10,25 +10,25 @@ nav: true
 A preview of the workshop schedule is available <a href="images/Schedule.pdf" target="_blank">here</a>.
 -->
 
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              | Title             | Speaker |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;             | Title             | Speaker |
 |:-------------|:-----------------|:-------|
-| 9:00-9:10   | Opening Remarks   | KBCOM Organizers |
-| 9:10-9:40   | TBD               | Monica Lam |
-| 9:40-10:10  | TBD               | Luna Dong |
+| 09:00-09:10   | Opening Remarks   | KBCOM Organizers |
+| 09:10-09:40   | TBD               | Monica Lam |
+| 09:40-10:10  | TBD               | Luna Dong |
 | 10:10-10:40 | TBD               | Alon Halevy |
 | 10:40-11:30 | Morning Poster Session and Coffee Break  |  |
 | 11:30-12:00 | TBD               | Oren Etzioni |
 | 12:00-12:30 | TBD               | Tim Finin |
-| 12:30-2:00  | Lunch Break & Poster Session | |
-| 2:00-2:30   | TBD               | Chris Ré |
-| 2:30-3:00   | TBD               | Luke Zettlemoyer |
-| 3:00-3:15   | Event Detection and Evolution Based on Knowledge Base | |
-| 3:15-3:30   | Temporal Reasoning Over Event Knowledge Graphs | |
-| 3:30-3:45   | Analysis of the Impact of Negative Sampling on Link Prediction in Knowledge Graphs | |
-| 3:45-4:30   | Afternoon Poster Session and Coffee Break | |
-| 4:30-5:00   | TBD               | Xifeng Yan |
-| 5:00-5:30   | Panel Discussion  | |
-| 5:30-5:40   | Concluding Remarks and Award Announcement KBCOM Organizers | |
+| 12:30-14:00  | Lunch Break & Poster Session | |
+| 14:00-14:30   | TBD               | Chris Ré |
+| 14:30-15:00   | TBD               | Luke Zettlemoyer |
+| 15:00-15:15   | Event Detection and Evolution Based on Knowledge Base | |
+| 15:15-15:30   | Temporal Reasoning Over Event Knowledge Graphs | |
+| 15:30-15:45   | Analysis of the Impact of Negative Sampling on Link Prediction in Knowledge Graphs | |
+| 15:45-16:30   | Afternoon Poster Session and Coffee Break | |
+| 16:30-17:00   | TBD               | Xifeng Yan |
+| 17:00-17:30   | Panel Discussion  | |
+| 17:30-17:40   | Concluding Remarks and Award Announcement KBCOM Organizers | |
 
 
 <!--
