@@ -48,7 +48,7 @@ A preview of the workshop schedule is available <a href="images/Schedule.pdf" ta
 
    Author(s): Bhushan Kotnis (University of Heidelberg); Vivi Nastase (University of Heidelberg)
 
-# Honorable Mentions
+## Honorable Mentions
 
 * [Temporal Reasoning Over Event Knowledge Graphs](./papers/KBCOM_2018_paper_11.pdf)
 
