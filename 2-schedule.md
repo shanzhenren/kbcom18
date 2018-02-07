@@ -4,9 +4,32 @@ title: Schedule
 nav: true
 ---
 
-# Schedule (TBD)
+# Schedule (Tentative)
 
+<!--
 A preview of the workshop schedule is available <a href="images/Schedule.pdf" target="_blank">here</a>.
+-->
+
+|               | Title             | Speaker |
+| ------------- | ----------------- | ------- |
+| 9:00-9:10   | Opening Remarks   | KBCOM Organizers |
+| 9:10-9:40   | TBD               | Monica Lam |
+| 9:40-10:10  | TBD               | Luna Dong |
+| 10:10-10:40 | TBD               | Alon Halevy |
+| 10:40-11:30 | Morning Poster Session and Coffee Break  |  |
+| 11:30-12:00 | TBD               | Oren Etzioni |
+| 12:00-12:30 | TBD               | Tim Finin |
+| 12:30-2:00  | Lunch Break & Poster Session | |
+| 2:00-2:30   | TBD               | Chris Ré |
+| 2:30-3:00   | TBD               | Luke Zettlemoyer |
+| 3:00-3:15   | Oral Presentation 1 | |
+| 3:15-3:30   | Oral Presentation 2 | |
+| 3:30-3:45   | Oral Presentation 3 | |
+| 3:45-4:30   | Afternoon Poster Session and Coffee Break | |
+| 4:30-5:00   | TBD               | Xifeng Yan |
+| 5:00-5:30   | Panel Discussion  | |
+| 5:30-5:40   | Concluding Remarks and Award Announcement KBCOM Organizers | |
+
 
 <!--
 <object data="images/Schedule.pdf" type="application/pdf" width="700px" height="700px">
