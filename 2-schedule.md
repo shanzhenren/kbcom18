@@ -10,8 +10,8 @@ nav: true
 A preview of the workshop schedule is available <a href="images/Schedule.pdf" target="_blank">here</a>.
 -->
 
-|               | Title             | Speaker |
-| ------------- | ----------------- | ------- |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              | Title             | Speaker |
+|:-------------|:-----------------|:-------|
 | 9:00-9:10   | Opening Remarks   | KBCOM Organizers |
 | 9:10-9:40   | TBD               | Monica Lam |
 | 9:40-10:10  | TBD               | Luna Dong |
