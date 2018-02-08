@@ -43,7 +43,7 @@ A preview of the workshop schedule is available <a href="images/Schedule.pdf" ta
 |||
 | 15:45-16:30   | Afternoon Poster Session & Coffee Break | |
 |||
-| 16:30-17:00   | **Democratize Data Science** | [Xifeng Yan](http://www.cs.ucsb.edu/~xyan/)|
+| 16:30-17:00   | **Democratize Data Science: NLI to Data** | [Xifeng Yan](http://www.cs.ucsb.edu/~xyan/)|
 |||
 | 17:00-17:30   | Panel Discussion | Invited Speakers |
 |||
