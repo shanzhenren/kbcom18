@@ -6,7 +6,7 @@ nav: true
 
 # Organizers
 
-{% include figure.html file="org.png" alt="intro image here" width="110%" %}
+{% include figure.html file="org.jpg" alt="intro image here" width="90%" %}
 
 + [Xiang Ren](http://xren7.web.engr.illinois.edu/) (USC)
 + [Craig Knoblock](http://usc-isi-i2.github.io/knoblock/) (USC/ISI)
