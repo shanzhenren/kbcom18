@@ -58,6 +58,9 @@ Details about the speakers and talks can be found [here](http://kbcom.org/3-spea
 <br>
 
 # Organizers
+
+{% include figure.html file="org.png" alt="intro image here" width="110%" %}
+
 The workshop is organized by [Xiang Ren](http://xren7.web.engr.illinois.edu/) (USC)， [Craig Knoblock](http://usc-isi-i2.github.io/knoblock/) (USC/ISI)， [William Wang](https://www.cs.ucsb.edu/~william/) (UCSB), and [Yu Su](http://cs.ucsb.edu/~ysu/) (UCSB).
 
 For any questions, please email [info@kbcom.org](mailto:info@kbcom.org)
