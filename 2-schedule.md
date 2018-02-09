@@ -31,7 +31,7 @@ A preview of the workshop schedule is available <a href="images/Schedule.pdf" ta
 |||
 | 12:30-14:00  | Lunch Break & Poster Session |
 |||
-| 14:00-14:30   | **Data Programming in Snorkel** | [Christopher Ré](https://cs.stanford.edu/people/chrismre/) |
+| 14:00-14:30   | **Democratize Data Science: NLI to Data** | [Xifeng Yan](http://www.cs.ucsb.edu/~xyan/)|
 |||
 | 14:30-15:00   | **End-to-end Learning for Broad Coverage Semantics** | [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/lsz)  |
 |||
@@ -43,7 +43,7 @@ A preview of the workshop schedule is available <a href="images/Schedule.pdf" ta
 |||
 | 15:45-16:30   | Afternoon Poster Session & Coffee Break | |
 |||
-| 16:30-17:00   | **Democratize Data Science: NLI to Data** | [Xifeng Yan](http://www.cs.ucsb.edu/~xyan/)|
+| 16:30-17:00   | **Data Programming in Snorkel** | [Christopher Ré](https://cs.stanford.edu/people/chrismre/) |
 |||
 | 17:00-17:30   | Panel Discussion | Invited Speakers |
 |||
