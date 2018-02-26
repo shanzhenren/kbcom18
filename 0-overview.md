@@ -57,6 +57,16 @@ Details about the speakers and talks can be found [here](http://kbcom.org/3-spea
 
 <br>
 
+# Steering Committee
+
++ [William Cohen](http://www.cs.cmu.edu/~wcohen/)
++ [Alon Halevy](https://homes.cs.washington.edu/~alon/)
++ [Jiawei Han](http://hanj.cs.illinois.edu/)
++ [Craig Knoblock](http://usc-isi-i2.github.io/knoblock/)
++ [Andrew McCallum](https://people.cs.umass.edu/~mccallum/)
+
+<br>
+
 # Organizers
 
 {% include figure.html file="org.jpg" alt="intro image here" width="90%" %}
