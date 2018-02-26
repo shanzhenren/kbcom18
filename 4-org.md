@@ -4,6 +4,16 @@ title: Organization
 nav: true
 ---
 
+# Steering Committee
+
++ [William Cohen](http://www.cs.cmu.edu/~wcohen/)
++ [Craig Knoblock](http://usc-isi-i2.github.io/knoblock/)
++ [Alon Halevy](https://homes.cs.washington.edu/~alon/)
++ [Jiawei Han](http://hanj.cs.illinois.edu/)
++ [Andrew McCallum](https://people.cs.umass.edu/~mccallum/)
+
+<br>
+
 # Organizers
 
 {% include figure.html file="org.jpg" alt="intro image here" width="90%" %}
@@ -12,16 +22,6 @@ nav: true
 + [Craig Knoblock](http://usc-isi-i2.github.io/knoblock/) (USC/ISI)
 + [William Wang](https://www.cs.ucsb.edu/~william/) (UCSB)
 + [Yu Su](http://cs.ucsb.edu/~ysu/) (UCSB).
-
-<br>
-
-# Steering Committee
-
-+ [William Cohen](http://www.cs.cmu.edu/~wcohen/)
-+ [Craig Knoblock](http://usc-isi-i2.github.io/knoblock/)
-+ [Alon Halevy](https://homes.cs.washington.edu/~alon/)
-+ [Jiawei Han](http://hanj.cs.illinois.edu/)
-+ [Andrew McCallum](https://people.cs.umass.edu/~mccallum/)
 
 <br>
 
