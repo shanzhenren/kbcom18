@@ -7,9 +7,9 @@ nav: true
 # Steering Committee
 
 + [William Cohen](http://www.cs.cmu.edu/~wcohen/)
-+ [Craig Knoblock](http://usc-isi-i2.github.io/knoblock/)
 + [Alon Halevy](https://homes.cs.washington.edu/~alon/)
 + [Jiawei Han](http://hanj.cs.illinois.edu/)
++ [Craig Knoblock](http://usc-isi-i2.github.io/knoblock/)
 + [Andrew McCallum](https://people.cs.umass.edu/~mccallum/)
 
 <br>
